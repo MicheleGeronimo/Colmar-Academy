@@ -60,7 +60,7 @@ body {
 }
 
 /* Sets background color for Banner, Learning Grid, and Footer */
-section:nth-child(2n + 1 ),
+section:nth-child(2n + 1),
 footer {
   background-color: #4C1316;
 }
@@ -417,7 +417,7 @@ li a {
 /* Smartphones (portrait and landscape) -- BANNER */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   section.banner {
-  background-color: white;
+  background-color: #4C1316;
   display: block;
   padding: 0;
   }
